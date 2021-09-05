@@ -1,0 +1,86 @@
+body {
+  background-color: rgba(140, 137, 149, 0.8);
+}
+.menu {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 500px;
+  margin-right: 500px;
+  padding: 0;
+  position: relative;
+  top: 80px;
+  background-color: rgba(35, 93, 106, 0.8);
+  left: 0;
+  height: 450px;
+  border-radius: 4px;
+}
+
+
+.bt {
+  text-align: center;
+  text-decoration: none;
+  position: relative;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 8px;
+  padding: 8px;
+  width: 105px;
+  background-color: rgb(23, 24, 24);
+  border-radius: 12px;
+  color:rgb(255, 255, 255);
+}
+
+
+
+.numer {
+  font-size: 20px;
+  color: #ffffff;
+}
+.entrada {
+  margin-top: 5px;
+  font-size: 20px;
+}
+button {
+  font-size: 20px;
+  background-color: rgb(63, 109, 203);
+  color: white;
+  border: solid 0px;
+  border-radius: 4px;
+}
+#resultado {
+  background-color: white;
+  margin-left: auto;
+ margin-right: auto;
+  padding: 05px;
+ 
+  width: 80%;
+}
+#ingresado {
+  background-color: white;
+ margin-left: auto;
+ margin-right: auto;
+  padding: 05px;
+  width: 80%;
+  
+}
+li {
+ 
+  list-style: none;
+  text-align: center;
+  text-decoration: none;
+  color: #161515;
+}
+a{
+  
+  font-size: 30px;
+  color: #1b1b1b;
+}
+
+div {
+  margin: 10px;
+}
+h3{
+  color: #161515;
+  text-align: center;
+}
