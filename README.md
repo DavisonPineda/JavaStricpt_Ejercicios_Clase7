@@ -3,7 +3,22 @@ Link del video
 
 https://drive.google.com/drive/folders/1CUFBo42TwZ33JYAz8PWjSLT4POUwsojU?usp=sharing
 
+Descripcion de Cada Ejercicio:
 
+Ejercicio 1:
+Crear una función que reciba como parámetro un arreglo de números y retornar en
+la consola los elementos elevados al cuadrado solo si se cumple que el número es
+positivo.
+Hint: Puede usar el método .map() para realizar la iteración y retornar el arreglo
+modificado.
+entrada: [2, 4, 6]
+salida: 4, 16, 36
+entrada: [-3, 2, -8, 12, 5]
+salida: -3, 4, -64, 144, 5
+entrada: [1, 2, 3, 4, 5]
+salida: 1, 4, 3, 16, 5
+
+Ejercicio 2:
 
 Dado un arreglo de objetos como parámetro de una función, conteniendo la
 categoría y precio del producto, retornar el precio total de una categoría indicada.
